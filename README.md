@@ -1,5 +1,5 @@
 # papatronica
-**papatronica** es un dispositivo de abierto y modular diseñado para ser utilizado en el proceso de producción, cosecha, industrialización, comercialización y distribución de papa y con posible aplicación también en otros frutos y hortalizas. 
+**papatronica** es un dispositivo abierto y modular diseñado para ser utilizado en el proceso de producción, cosecha, industrialización, comercialización y distribución de papa y con posible aplicación también en otros frutos y hortalizas. 
 
 El objetivo general de Papatronica es poner a disposición de pequeños y medianos productores así como de toda la cadena de valor de producción de papa ( y de vegetales y hortalizas en general) una plataforma abierta y modular de código abierto y bajo costo que permita determinar los procesos o puntos específicos dentro de un proceso, donde se producen golpes, daños mecánicos y condiciones ambientales que afecten el estado y la conservación de los productos. Esto disminuirá significativamente las pérdidas de productos que se producen después de la cosecha (aproximadamente del 35% de las frutas y hortalizas producidas).
 Esta plataforma, en principio se desarrollará orientada al uso en el cultivo de papa, pero será fácilmente adaptable a otros cultivos o productos.
