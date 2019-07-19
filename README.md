@@ -30,6 +30,8 @@ Esta plataforma, en principio se desarrollará orientada al uso en el cultivo de
 
 Los productores, las industrias, la cadena comercial y los consumidores serían beneficiarios directos de este dispositivo.
 
+![papatronica](https://github.com/ecoagrotec/papatronica/blob/master/salto_papatronica.png)
+
 ### Perspectivas a futuro: 
  “papatronica” podría medir y registrar desde la plantación; temperatura, humedad, conductividad eléctrica y ph en el suelo. Se cosechará junto con el resto del lote y registrará toda la información durante la cosecha, el traslado y el almacenamiento, donde también medirá CO2 (y posiblemente otros gases). También podría transmitir toda la información en tiempo real permitiendo un seguimiento permanente y en tiempo real de las condiciones de los tubérculos desde la plantación hasta el punto final de comercialización.
  
