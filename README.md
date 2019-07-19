@@ -1,4 +1,7 @@
 # papatronica
+
+![papatronica](https://github.com/ecoagrotec/papatronica/blob/master/estructura/carcasa.jpg)
+
 **papatronica** es un dispositivo abierto y modular diseñado para ser utilizado en el proceso de producción, cosecha, industrialización, comercialización y distribución de papa y con posible aplicación también en otros frutos y hortalizas. 
 
 El objetivo general de Papatronica es poner a disposición de pequeños y medianos productores así como de toda la cadena de valor de producción de papa ( y de vegetales y hortalizas en general) una plataforma abierta y modular de código abierto y bajo costo que permita determinar los procesos o puntos específicos dentro de un proceso, donde se producen golpes, daños mecánicos y condiciones ambientales que afecten el estado y la conservación de los productos. Esto disminuirá significativamente las pérdidas de productos que se producen después de la cosecha (aproximadamente del 35% de las frutas y hortalizas producidas).
@@ -26,7 +29,6 @@ Esta plataforma, en principio se desarrollará orientada al uso en el cultivo de
 - Investigar diferentes materiales que podrían reducir el riesgo de daños a las papas
 
 Los productores, las industrias, la cadena comercial y los consumidores serían beneficiarios directos de este dispositivo.
-
 
 ### Perspectivas a futuro: 
  “papatronica” podría medir y registrar desde la plantación; temperatura, humedad, conductividad eléctrica y ph en el suelo. Se cosechará junto con el resto del lote y registrará toda la información durante la cosecha, el traslado y el almacenamiento, donde también medirá CO2 (y posiblemente otros gases). También podría transmitir toda la información en tiempo real permitiendo un seguimiento permanente y en tiempo real de las condiciones de los tubérculos desde la plantación hasta el punto final de comercialización.
