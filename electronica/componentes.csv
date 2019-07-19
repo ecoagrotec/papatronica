@@ -1,0 +1,4 @@
+Componente, Nombre, Modelo
+1, Acelerómetro+giróscopo, MPU-6500
+2, Placa principal, NodeMCU Wifi ESP8266
+3, Batería, Litio-Polímero 3.7V 500mAh
