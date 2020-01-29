@@ -6,16 +6,15 @@ Instrucciones para instalar la app y la interfaz:
 3. Abrir la app
 4. Ir a menu > interface > import
 5. Seleccionar el archivo UI-papatronica
-6. 
 
 Instrucciones para utilizar la app con la papatronica:
 1. Abrir la app y encender la papatronica
 2. Ir a menu > connect
 3. Seleccionar de la lista a papatronica
-4. 
 
 Instrucciones para modificar la interfaz:
 1. Ir a menu > edit ui
-2. Modificar.....
+2. Hacer los cambios
 3. Para guardar los cambios en un archivo ir a menu > interface > export
 
+![screenshot](https://raw.githubusercontent.com/ecoagrotec/papatronica/master/app/UI-papatronica1-screenshot.png)
