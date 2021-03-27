@@ -57,5 +57,13 @@ Los productores, las industrias, la cadena comercial y los consumidores serían 
 
 Este es un proyecto de hardware abierto y se aceptan todo tipo de sugerencias, aportes y contribuciones (por ejemplo respondiendo a alguno de los _['issues'](https://github.com/ecoagrotec/papatronica/issues)_, abriendo algún nuevo _issue_, o mandándonos un mail con tus comentarios). 
 
-Contactos: luchovelazquez@gmail.com gpereyrairujo@gmail.com
+Participantes del proyecto: 
+- Luciano Velázquez
+- Gustavo Pereyra Irujo
+- Franco Pérez
+- José Marone
+- Ignacio Lalloz
 
+Contacto:
+luchovelazquez@gmail.com
+gpereyrairujo@gmail.com
