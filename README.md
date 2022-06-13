@@ -53,7 +53,7 @@ Los productores, las industrias, la cadena comercial y los consumidores serían 
 4. compra de materiales y armado de prototipos
 5. pruebas de campo y validación
 
-*actualmente estamos en las etapas 2, 3 y 4 (ver la lista de [tareas/issues](https://github.com/ecoagrotec/papatronica/issues))*
+*actualmente estamos en las etapas 3, 4 y 5 (ver la lista de [tareas/issues](https://github.com/ecoagrotec/papatronica/issues))*
 
 Este es un proyecto de hardware abierto y se aceptan todo tipo de sugerencias, aportes y contribuciones (por ejemplo respondiendo a alguno de los _['issues'](https://github.com/ecoagrotec/papatronica/issues)_, abriendo algún nuevo _issue_, o mandándonos un mail con tus comentarios). 
 
